@@ -10,3 +10,8 @@ The downloads contain the ready to use software, even though they are named 'sou
 - run the install.sh script
 
 More information and documentation can be found at http://kimnyholm.com/universal-robots.
+
+Tip: You can download directly with the command 
+```
+  curl -L https://github.com/kimnyholm/robot-data-center-dist/archive/master.zip --output rdc.zip
+```
