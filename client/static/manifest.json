@@ -1,0 +1,31 @@
+{
+  "name": "Robot Dashboard loading...",
+  "short_name": "Robot DashBoard",
+  "icons": [
+    {
+      "src": "ur-36x36.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    },
+    {
+      "src": "ur-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "ur-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "ur-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#9E9E9E",
+  "background_color": "#9E9E9E",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
