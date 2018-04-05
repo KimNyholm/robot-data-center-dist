@@ -13,7 +13,7 @@ curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
 sudo apt-get --yes install nodejs
 
 #install Robot Data Center
-sudo cp -r * /usr/local/robot-data-center
+sudo cp -r . /usr/local/robot-data-center
 sudo cp robot-data-center.service /etc/systemd/system
 sudo systemctl start robot-data-center
 sudo systemctl enable robot-data-center
